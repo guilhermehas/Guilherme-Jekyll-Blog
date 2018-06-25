@@ -1,2 +1,2 @@
-# guilhermehas.github.io-
-Github page home of Guilherme
+# Guilherme
+Blog of Guilherme
