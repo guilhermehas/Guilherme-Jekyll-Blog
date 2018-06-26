@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Resume"
+title:  "Experience"
 categories: main
 ---
 
-This is my resume
+My experience is
