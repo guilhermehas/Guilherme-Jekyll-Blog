@@ -15,4 +15,5 @@ gems:
   - jekyll-paginate
 
 #Others
+permalink: /:title/
 markdown: kramdown
