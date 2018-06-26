@@ -10,6 +10,11 @@ author:
   name:       Guilherme
   url:        http://guilhermehas.github.io
 
+# Collections
+collections:
+  items:
+    output: true
+
 # Gems
 gems:
   - jekyll-paginate
